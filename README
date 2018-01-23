@@ -1,0 +1,5 @@
+Pour lancer unity, il suffit d'aller dans MecanoVsCanonUnity - Asset et 
+de lancer les fichiers .unity
+Pour voir le code Js il se trouve dans Asset-script
+Le code C# se trouve dans asset - Plugin
+Le .jar de Bridge se trouve dans plugin - android.
