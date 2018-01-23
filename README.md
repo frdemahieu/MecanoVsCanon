@@ -6,7 +6,7 @@ This is a 3D project for android made with Unity3D
 	Pour directement jouer, vous pouvez lancer le jeu.unity directement.
 
 	
-## 2.	Manuel d’utilisation du jeu sur android
+## Manuel d’utilisation du jeu sur android
 
 Tout d’abord, vous arrivez sur cette page : 
 
@@ -26,7 +26,7 @@ Il est possible de rejouer en appuyant sur le bouton jouer.
 ![Score](readme_img3.png)
 
 
-## 3.	Architecture du projet
+## Architecture du projet
 
 ![Architecture](readme_img4.png)
 
